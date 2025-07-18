@@ -1,5 +1,5 @@
 # DSA CAPSTONE PROJECT - AMAZON CASE STUDY
-This project is aimed at analysing Amazon's sales data in order to identify trends, challenges and opportunities. I used data analysis techniques and tools to gain insights into customer behaviour, products performance and market trends. This project is an exploratory Excel analysis of Amazon product listings using sales, pricing, and review data. It was completed as part of a data learning path focused on building core skills in spreadsheet analysis and business insights.
+This project is aimed at analysing Amazon's sales data in order to identify trends, challenges and opportunities. This project is an exploratory Excel analysis of Amazon product listings using sales, pricing, and review data. It was completed as part of a data learning path focused on building core skills in spreadsheet analysis and business insights. I used data analysis techniques and tools to gain insights into customer behaviour, products performance and market trends.
 
 ---
 
