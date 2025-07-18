@@ -36,3 +36,20 @@ To achieve the objectives of this project, I employed the following methodology:
 ### Limitations
 - Data quality issues (e.g. missing values, ouliers) may impact analysis result
 - Limited scope of data may not be representative of entire Amazon platform
+
+### Results and Findings
+#### Key Insights
+##### - Top-selling Products: The top 5 best-selling products on Amazon are:
+1. Amazonbasics Flexible Premium Hdmi
+2. Amazon Basics High-Speed Hdmi Cable
+3. Boat Bassheads 100 In Ear Wired Ear
+4. Boat Bassheads 100 In-Ear Wired Head
+5. Redmi 9 Activ (Carbon Black, 4Gb 
+
+#### - Product categories: The top 3 product categories by sales are:
+1. Electronics (59.69%)
+2. Computer & Accessories (26.62%)
+3. Home & Kitchen (12.57%)
+
+
+
