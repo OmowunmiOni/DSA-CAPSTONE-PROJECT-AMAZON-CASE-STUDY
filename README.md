@@ -1,23 +1,27 @@
 # DSA CAPSTONE PROJECT - AMAZON CASE STUDY
-This project is aimed at analysing Amazon's sales data in order to identify trends, challenges and opportunities. I used data analysis techniques and tools to gain insights into customer behaviour, products performance and market trends.
+This project is aimed at analysing Amazon's sales data in order to identify trends, challenges and opportunities. I used data analysis techniques and tools to gain insights into customer behaviour, products performance and market trends. This project is an exploratory Excel analysis of Amazon product listings using sales, pricing, and review data. It was completed as part of a data learning path focused on building core skills in spreadsheet analysis and business insights.
+
+---
 
 ## Objectives
 - To analyze Amazon's sales data to identify top-selling products and categories
 - To identify trends and patterns in customer behaviour and product performance
 - To develop recommendations for Amazon to improve sales and customer satisfaction
 
-## Tools used
-- Microsoft excel
-- Exploratory data analysis tools
-- Data science techniques (data cleaning, visualisation, analysis)
-- Data (Amazon Sales data [download here]
+## 🧰 Tools Used
+- **Microsoft Excel**
+- Pivot Tables
+- Formulas (e.g., IF, COUNTIF, AVERAGE)
+- Sorting & Filtering
+- Data Bucketing
+
+---
 
 ### Methodology
 To achieve the objectives of this project, I employed the following methodology:
 
 ### Data collection
-- Collected Amazon sales data from publicly available sources
-- Web scrapping techniques to gather data on product sales, customer reviews and ratings
+- Amazon sales data was collected from publicly available sources
 
 ### Data Processing
 - Cleaned and transformed the data to ensure consistency and accuracy
@@ -37,21 +41,26 @@ To achieve the objectives of this project, I employed the following methodology:
 - Data quality issues (e.g. missing values, ouliers) may impact analysis result
 - The analysis is limited to publicly available data and may not reflect Amazon's entire product catalog or customer base.
 
-### Results and Findings
-#### Key Insights
-##### - Top-selling Products: The top 5 best-selling products on Amazon are:
-1. Amazonbasics Flexible Premium Hdmi
-2. Amazon Basics High-Speed Hdmi Cable
-3. Boat Bassheads 100 In Ear Wired Ear
-4. Boat Bassheads 100 In-Ear Wired Head
-5. Redmi 9 Activ (Carbon Black, 4Gb 
+### 🔍 Key Analyses
 
-#### - Product categories: The top 3 product categories by sales are:
-1. Electronics (59.69%)
-2. Computer & Accessories (26.62%)
-3. Home & Kitchen (12.57%)
+- Grouped products into price range buckets (e.g. `<£200`, `£200-£500`)
+- Counted unique products per price tier
+- Identified products with fewer than 1,000 reviews
+- Created pivot tables to summarize by:
+  - Product category
+  - Review count ranges
+  - Price groups
+- Visualized trends and product concentration
 
-#### - Customer behavior: 
+---
+
+### 💡 Insights & Observations
+
+- Certain categories dominate the mid-range price tiers
+- Low-review products may require marketing or visibility efforts
+- High-value products are concentrated in fewer categories
+- 
+### - Customer behavior: 
 - Customers who purchased products in the Electronics category are more likely to also purchase products in the Home and Kitchen category
 - The level of discount directly impacts on product sales (i.e. the higher the discount, the highr the number of products sold)
 
@@ -59,6 +68,17 @@ To achieve the objectives of this project, I employed the following methodology:
 - Product assortment: Amazon should prioritize stocking top-selling products and categories to meet customer demand
 - Cross-selling: Amazon can leverage customer behavior insights to recommend related products and increase average order value
 
+---
 
+### 📂 File Included
+
+- `DSA_Amazon_Project.xlsx`: Contains all analysis with pivot tables and filters
+
+---
+
+### 🧑‍💻 About Me
+
+**Omowunmi Oni**  
+Aspiring Data Analyst | Excel, Power BI & SQL Learner
 
 
