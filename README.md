@@ -35,7 +35,7 @@ To achieve the objectives of this project, I employed the following methodology:
 
 ### Limitations
 - Data quality issues (e.g. missing values, ouliers) may impact analysis result
-- Limited scope of data may not be representative of entire Amazon platform
+- The analysis is limited to publicly available data and may not reflect Amazon's entire product catalog or customer base.
 
 ### Results and Findings
 #### Key Insights
@@ -50,6 +50,15 @@ To achieve the objectives of this project, I employed the following methodology:
 1. Electronics (59.69%)
 2. Computer & Accessories (26.62%)
 3. Home & Kitchen (12.57%)
+
+#### - Customer behavior: 
+- Customers who purchased products in the Electronics category are more likely to also purchase products in the Home and Kitchen category
+- The level of discount directly impacts on product sales (i.e. the higher the discount, the highr the number of products sold)
+
+### Recommendations
+- Product assortment: Amazon should prioritize stocking top-selling products and categories to meet customer demand
+- Cross-selling: Amazon can leverage customer behavior insights to recommend related products and increase average order value
+
 
 
 
